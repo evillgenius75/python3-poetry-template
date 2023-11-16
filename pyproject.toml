@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "app-template"
+version = "0.1.0"
+description = ""
+authors = ["USER_NAME <USER_EMAIL>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
